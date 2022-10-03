@@ -1,0 +1,7 @@
+{
+	"1": {
+		"type": "deposit",
+		"account": "checking",
+		"amount": "100"
+	}
+}

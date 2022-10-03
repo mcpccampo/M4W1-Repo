@@ -1,0 +1,19 @@
+{
+  "name": "full-stack-application",
+  "version": "1.0.0",
+  "description": "Routes: 1) transactions on initial load - should return an array of transactions - a transaction should be an object with type, account, amount, and id 2) post a new transaction and return it 3) delete a transaction and return success message - should return and id 4) reset all the banking data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
